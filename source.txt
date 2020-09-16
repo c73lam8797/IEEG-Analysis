@@ -1,1 +1,3 @@
 https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
+
+https://www.kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions
